@@ -10,3 +10,7 @@ The ultimate vision for the project is to rewrite it as a full-fledged app. This
 
 Inspired by http://hi.gher.space/classic/page8.html and https://www.youtube.com/watch?v=9yW--eQaA2I&t=24s.
 
+## Example
+
+![Image](./cut_tesseract.gif)
+
